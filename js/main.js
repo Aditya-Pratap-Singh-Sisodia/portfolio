@@ -1011,7 +1011,7 @@ function initInteractiveTerminal() {
   • <span class="term-highlight">experience</span>   - View Dell Technologies & KVK internship details
   • <span class="term-highlight">education</span>    - View UPES B.Tech details & CGPA (8.92)
   • <span class="term-highlight">honors</span>       - View Govt. of Uttarakhand award & HackerRank 5★
-  • <span class="term-highlight">contact</span>      - Get phone, email, and social coordinates
+  • <span class="term-highlight">contact</span>      - Get email and social coordinates
   • <span class="term-highlight">resume</span>       - Launch printable resume viewer
   • <span class="term-highlight">whoami</span>       - High-level bio & summary
   • <span class="term-highlight">clear</span>        - Clear terminal screen`,
@@ -1052,8 +1052,6 @@ function initInteractiveTerminal() {
 
     contact: `<span class="term-highlight">--- Contact Information ---</span>
 • Email: adityasisodia010@gmail.com
-• Phone: +91 6395428245
-• WhatsApp: https://wa.me/916395428245
 • Location: Dehradun / Agra / Open to relocation`
   };
 

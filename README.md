@@ -20,8 +20,7 @@ Designed with **cyber-clean glassmorphism**, deep tech aesthetics, interactive l
   - **Dell Enterprise CI/CD Visualizer**: Interactive pipeline runner simulating Git -> PyTest & Lint -> Docker Build -> Kubernetes deployment with live logs.
   - **Interactive Developer CLI**: In-browser terminal supporting commands like `skills`, `projects`, `experience`, `education`, `honors`, `contact`, and `resume`.
 - **Recruiter Action Bar**:
-  - One-click copy for **Email** (`adityasisodia010@gmail.com`) and **Phone** (`+91 6395428245`).
-  - Direct **WhatsApp quick-chat** button (`+91 6395428245`).
+  - One-click copy for **Email** (`adityasisodia010@gmail.com`).
   - Interactive **Resume Viewer Modal** with a single-click **"Print / Save as PDF"** feature matching standard A4 resume styling.
 - **Modern Polish**:
   - Dark / Light mode toggle with `localStorage` persistence.
@@ -88,6 +87,6 @@ portfolio/
 
 - **Name**: Aditya Pratap Singh Sisodia
 - **Email**: [adityasisodia010@gmail.com](mailto:adityasisodia010@gmail.com)
-- **Phone**: [+91 6395428245](tel:+916395428245)
-- **WhatsApp**: [+91 6395428245](https://wa.me/916395428245)
+- **LinkedIn**: [Aditya Pratap Singh Sisodia](https://linkedin.com)
+- **GitHub**: [Aditya-Pratap-Singh-Sisodia](https://github.com/Aditya-Pratap-Singh-Sisodia)
 
