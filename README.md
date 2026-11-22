@@ -87,5 +87,6 @@ portfolio/
 
 - **Name**: Aditya Pratap Singh Sisodia
 - **Email**: [adityasisodia010@gmail.com](mailto:adityasisodia010@gmail.com)
-- **LinkedIn**: [Aditya Pratap Singh Sisodia](https://linkedin.com)
+- **LinkedIn**: [adityasisodia2](https://www.linkedin.com/in/adityasisodia2/)
+- **LeetCode**: [VwAXCjGO8f](https://leetcode.com/u/VwAXCjGO8f/)
 - **GitHub**: [Aditya-Pratap-Singh-Sisodia](https://github.com/Aditya-Pratap-Singh-Sisodia)

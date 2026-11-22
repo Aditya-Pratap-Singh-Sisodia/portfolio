@@ -1052,6 +1052,9 @@ function initInteractiveTerminal() {
 
     contact: `<span class="term-highlight">--- Contact Information ---</span>
 • Email: adityasisodia010@gmail.com
+• LinkedIn: https://www.linkedin.com/in/adityasisodia2/
+• LeetCode: https://leetcode.com/u/VwAXCjGO8f/
+• GitHub: https://github.com/Aditya-Pratap-Singh-Sisodia
 • Location: Dehradun / Agra / Open to relocation`
   };
 
