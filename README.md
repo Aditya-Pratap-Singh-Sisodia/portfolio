@@ -1,6 +1,11 @@
 # 🚀 Aditya Pratap Singh Sisodia – Portfolio Website
 
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Online-emerald?style=for-the-badge&logo=google-chrome)](https://aditya-pratap-singh-sisodia.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya--Pratap--Singh--Sisodia-181717?style=for-the-badge&logo=github)](https://github.com/Aditya-Pratap-Singh-Sisodia)
+
 A modern, high-impact developer portfolio built specifically for **B.Tech campus placements, off-campus tech recruitment, and SDE / AI / DevOps hiring teams**.
+
+🌐 **Live URL**: [https://aditya-pratap-singh-sisodia.github.io/portfolio/](https://aditya-pratap-singh-sisodia.github.io/portfolio/)
 
 Designed with **cyber-clean glassmorphism**, deep tech aesthetics, interactive live AI demonstrations, and recruiter-focused metrics.
 
