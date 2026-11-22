@@ -1,17 +1,17 @@
-# 🚀 Aditya Pratap Singh Sisodia – Portfolio Website
+# Aditya Pratap Singh Sisodia - Portfolio Website
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Online-emerald?style=for-the-badge&logo=google-chrome)](https://aditya-pratap-singh-sisodia.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya--Pratap--Singh--Sisodia-181717?style=for-the-badge&logo=github)](https://github.com/Aditya-Pratap-Singh-Sisodia)
 
 A modern, high-impact developer portfolio built specifically for **B.Tech campus placements, off-campus tech recruitment, and SDE / AI / DevOps hiring teams**.
 
-🌐 **Live URL**: [https://aditya-pratap-singh-sisodia.github.io/portfolio/](https://aditya-pratap-singh-sisodia.github.io/portfolio/)
+**Live URL**: [https://aditya-pratap-singh-sisodia.github.io/portfolio/](https://aditya-pratap-singh-sisodia.github.io/portfolio/)
 
 Designed with **cyber-clean glassmorphism**, deep tech aesthetics, interactive live AI demonstrations, and recruiter-focused metrics.
 
 ---
 
-## 🌟 Standout Highlights for Recruiters
+## Standout Highlights for Recruiters
 
 - **Immediate Above-the-Fold Proof**: UPES B.Tech CSE (AI & ML) with **8.92 CGPA**, **Dell Technologies** DevOps internship, **Govt. of Uttarakhand Industry 4.0 Winner**, and **5-Star HackerRank** badges.
 - **Interactive AI Lab (In-Browser Live Demos)**:
@@ -30,7 +30,7 @@ Designed with **cyber-clean glassmorphism**, deep tech aesthetics, interactive l
 
 ---
 
-## 💻 How to Run Locally
+## How to Run Locally
 
 ### Option 1: One-Click Launch (Windows)
 Double-click the **`start_server.bat`** file in this folder. It will launch a local server and automatically open the portfolio in your browser at `http://localhost:3000`.
@@ -46,7 +46,7 @@ Then visit [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ---
 
-## 🌐 Free 1-Click Deployment (To Share with Recruiters)
+## Free 1-Click Deployment (To Share with Recruiters)
 
 ### Method 1: GitHub Pages (Recommended)
 1. Initialize git and push this folder to a GitHub repository:
@@ -68,7 +68,7 @@ Then visit [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 portfolio/
@@ -83,10 +83,9 @@ portfolio/
 
 ---
 
-## 📬 Contact & Socials
+## Contact & Socials
 
 - **Name**: Aditya Pratap Singh Sisodia
 - **Email**: [adityasisodia010@gmail.com](mailto:adityasisodia010@gmail.com)
 - **LinkedIn**: [Aditya Pratap Singh Sisodia](https://linkedin.com)
 - **GitHub**: [Aditya-Pratap-Singh-Sisodia](https://github.com/Aditya-Pratap-Singh-Sisodia)
-
